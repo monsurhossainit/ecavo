@@ -1,0 +1,160 @@
+
+@media (min-width: 426px) {
+    .mhero2{
+        display: none;
+    }
+}
+.hero2text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px ;
+        gap: 10px;
+
+}
+.h2b{
+    height: 30px;
+    width: 90px;
+text-align: center;
+border: 1px solid;
+border-radius: 5px;
+cursor: pointer;
+
+}
+
+
+.hero2hallery{
+
+    display: flex;
+    height: 350px;
+    width: 100%;
+    justify-content: center;
+}
+.hero2image1{
+    
+    height: 350;
+    width: 100%;}
+
+
+
+.hero2textg{
+    background-color: black;
+    color: white;
+   display: flex;
+   flex-direction: column;
+    height: 350px;
+    width: 33%;;
+    text-align: center;
+}
+
+.hero2image2{
+
+    height: 350px;
+    width: 100%;}
+    .hero2textgh3{
+        color: #C8A35F;
+    }
+
+    .hero2textgh3{
+        color: #c8ceed;
+    }
+
+
+    .hero2hallerya{
+        background-color: #C8A35F;
+        width: 200px;
+        text-align: center;
+       margin-left: 120px;
+padding-top: 10px; 
+padding-bottom: 10px;
+border-radius: 10px;
+
+}
+
+.contentbottonnav{
+    background-color: #bbf7d0;
+    height: 15px;
+    width: 100%;
+}
+
+.contentbottonnav2{
+
+    background-color: #f6f0e6;
+    height: 50px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    color: #5B1A1A;
+    text-decoration: none;
+}
+
+.contentbottonnav2a{
+        color: #5B1A1A;
+
+}
+.mcontentbottonnav2a{
+    color:  #5B1A1A ;
+}
+
+.hero-3{
+
+ 
+    
+    background-color: #2c1810;
+    height: 50vh;
+    width: 100%;
+}
+
+.hero-3text{
+ 
+    text-align: center;
+   color: #9a7a2e;
+ width: 100%;
+}
+
+.hero-3cardmain{
+    display: grid;
+    
+    grid-template-columns: 1fr 1fr 1fr 1.5fr;
+    gap: 10px;
+    width: 100%;
+    margin-left: 30px;
+
+   
+}
+
+.hero-3card{
+display: flex;
+    background-color: #2C1810;
+    height: 280px;
+    width: 260px;
+        justify-self: center;
+
+        border: #7A6A56 1px solid;
+
+        border-radius: 10px;
+        color: #c39f5d;
+       text-align: center;
+       align-items: center;
+       box-shadow: #2C1810  2px 5px  8px ;
+
+       
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+    
+    @media (max-wimax-width: 425px) {
+
+    }

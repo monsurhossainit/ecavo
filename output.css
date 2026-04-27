@@ -1,0 +1,72 @@
+.hero {
+    background-image: url(./hero-bg.webp);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+}
+
+.herobc {
+    display: flex;
+    background-color: rgba(44, 24, 16, 0.82);
+    display: flex;
+    background-size: cover;
+    height: 90vh;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.hero-layout {
+
+    display: flex;
+    gap: 3rem;
+    justify-content: space-between;
+    align-items: center;
+    align-self: center;
+    margin-left: 100px;
+
+}
+
+.containar {
+
+    align-items: center;
+    justify-content: center;
+}
+
+.product {
+
+    display: flex;
+
+}
+
+
+.btn-one {
+    background-color: #7b1f2e;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+    border: 1px solid #7b1f2e;
+    color: #fffdf7;
+
+}
+
+.btn-two {
+    color: #fffdf7;
+    padding: 0.75rem 1.5rem;
+    border-radius: 5px;
+    border: 1px solid #fffdf7;
+    background-color: transparent;
+transform: scaleY(1);
+	transition: transform 0.3s ease;
+
+
+
+
+
+}
